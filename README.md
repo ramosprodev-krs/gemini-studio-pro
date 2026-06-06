@@ -19,7 +19,8 @@ I have also implemented SQLite for login and register purposes, despite being a 
 ### Technologies Used  
 * **Language:** Python 3.11.14
 * **Frameworks:** Tkinter, Pygame, Google Generative AI (genai)
-* * **API:** Google AI Studio
-* * **Third-party Libraries:** SQLite3, Pillow, Threading & Time
+* **API:** Google AI Studio
+* **Database:** SQLite 3
+* **Third-party Libraries:** SQLite3, Pillow, Threading & Time
 
 

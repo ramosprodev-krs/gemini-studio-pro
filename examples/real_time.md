@@ -1,6 +1,5 @@
 ## Real-time agent example:
-
-https://i.imgur.com/iLavrDN.mp4
+<video src="https://i.imgur.com/iLavrDN.mp4" controls width="100%"></video>
 
 ---
 ## Return

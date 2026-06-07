@@ -54,6 +54,13 @@ A demonstration of a Real-time agent:
 For I have used the gemini 3.5-flash, a pretty decent response time was achieved, and I must say the results where surprising at first.
 
 ---
+## Contact me!
+If you found this project helpful, please consider giving it a ⭐ to support its development!
 
+### Here are a few ways to contact me:  
+- <img width="20" height="20" alt="image" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"> [More of my projects](https://github.com/ramosprodev-krs)
+- <img width="20" height="20" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/120px-LinkedIn_icon.svg.png?_=20210220164014"> www.linkedin.com/in/ramosprodev
+- <img width="20" height="20" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/330px-Gmail_icon_%282020%29.svg.png"> ramosprodev@gmail.com 
 
-
+---
+## Thank you!

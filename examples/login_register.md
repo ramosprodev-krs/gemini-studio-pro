@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/rYT3RfZ.png">
 
 ## Register screen:
-<img src="https://i.imgur.com/iOhcbsi.png" width="40" height="40">
+<img src="https://i.imgur.com/iOhcbsi.png" width="400" height="400">
 
 ---
 ## Return

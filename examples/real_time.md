@@ -1,5 +1,6 @@
 ## Real-time agent example:
-<video src="https://i.imgur.com/iLavrDN.mp4" width="1100" height="700" autoplay loop muted playsinline></video>
+
+https://i.imgur.com/iLavrDN.mp4
 
 ---
 ## Return

@@ -26,8 +26,8 @@ I have also implemented SQLite for login and register purposes, despite being a 
 ## Features
 
 ### 1. Login/register screens
-The first thing I designed was the login/register screens, allowing the users to create their own accounts.
-The main point of this, is to ensure each agent created is associated to one user, creating a private environment.
+The first thing I designed was the login/register screens, allowing the users to create their own accounts.  
+The main point of this, is to ensure each agent created is associated to one user, creating a private environment.  
 
 Here you can check the login/register screens:  
 [Login & Register](/examples/login_register.md)
@@ -44,9 +44,9 @@ A simple example of the customization screen:
 ---
 
 ### 3. Real-time agents
-The last feature that was a "must have", was the real-time interaction with the agent.
-It functions as a regular chat, where you can interact with your agent, who answers in a short period of time.
-Each conversation is attached to that specific model, ensuring the chats are properly separated.
+The last feature that was a "must have", was the real-time interaction with the agent.  
+It functions as a regular chat, where you can interact with your agent, who answers in a short period of time.  
+Each conversation is attached to that specific model, ensuring the chats are properly separated.  
 
 A demonstration of a Real-time agent:  
 [Real-time agent](/examples/real_time.md)
@@ -55,7 +55,7 @@ For I have used the gemini 3.5-flash, a pretty decent response time was achieved
 
 ---
 ## Contact me!
-If you found this project helpful, please consider giving it a ⭐ to support its development!
+If you found this project helpful, please consider giving it a ⭐ to support its development!  
 
 ### Here are a few ways to contact me:  
 - <img width="20" height="20" alt="image" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"> [More of my projects](https://github.com/ramosprodev-krs)

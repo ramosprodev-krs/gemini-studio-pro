@@ -14,6 +14,7 @@ This project is a challenge from the DIO course I am currently taking.
 The challenge was not meant to be an application by itself, however I wanted to level up the idea and create my own app with Google Gemini.  
 
 With that in mind, the application serves as an AI Agent management system, where you can create your own personalized Agent for any task you desire.  
+
 I have also implemented SQLite for login and register purposes, despite being a Desktop application.
 
 ### Technologies Used  

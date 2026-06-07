@@ -1,8 +1,8 @@
 ## Login screen:
-<img src="https://i.imgur.com/rYT3RfZ.png">
+<img src="https://i.imgur.com/rYT3RfZ.png" width="800" height="400">
 
 ## Register screen:
-<img src="https://i.imgur.com/iOhcbsi.png" width="400" height="400">
+<img src="https://i.imgur.com/iOhcbsi.png" width="800" height="400">
 
 ---
 ## Return

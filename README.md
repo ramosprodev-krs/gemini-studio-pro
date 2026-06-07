@@ -23,4 +23,11 @@ I have also implemented SQLite for login and register purposes, despite being a 
 * **Database:** SQLite 3
 * **Third-party Libraries:** SQLite3, UUID, Pillow, Threading & Time, PIL, Json, OS, Time, WebBrowser, Zipfile and TextWrap.
 
+### Features
+The first thing I designed was the login/register screens, allowing the users to create their own accounts.
+The main point of this, is to ensure each agent created is associated to one user, creating a private environment.
+
+Here you can check the login/register screens:
+[Login & Register](/examples/login_register.md)
+
 

@@ -32,8 +32,28 @@ The main point of this, is to ensure each agent created is associated to one use
 Here you can check the login/register screens:
 [Login & Register](/examples/login_register.md)
 
+---
+
 ### 2. Customizable agents
+The next goal was to add a feature where users could customize their agents, based on their personal preferences.
+This allowed users to split the AI behavior through different functions and tasks.
+
+A simple example of the customizing screen:
+[Customizing the agent](/examples/agent.md)
+
+---
 
 ### 3. Real-time agents
+The last feature that was a "must have", was the real-time interaction with the agent.
+It functions as a regular chat, where you can interact with your agent, who answers in a short period of time.
+Each conversation is attached to that specific model, ensuring the chats are properly separated.
+
+A demonstration of a Real-time agent:
+[Real-time agent](/examples/real_time.md)
+
+For I have used the gemini 3.5-flash, a pretty decent response time was achieved, and I must say the results where surprising at first.
+
+---
+
 
 

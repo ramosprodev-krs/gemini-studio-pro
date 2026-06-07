@@ -38,7 +38,7 @@ Here you can check the login/register screens:
 The next goal was to add a feature where users could customize their agents, based on their personal preferences.
 This allowed users to split the AI behavior through different functions and tasks.
  
-A simple example of the customizing screen:  
+A simple example of the customization screen:  
 [Customizing the agent](/examples/agent.md)
 
 ---
